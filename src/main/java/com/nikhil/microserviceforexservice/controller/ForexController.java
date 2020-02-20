@@ -22,6 +22,8 @@ public class ForexController {
 	public ExchangeValue retrieveExchangeValue(
 		@PathVariable String from,
 		@PathVariable String to) {
+		
+		
 	ExchangeValue exchangeValue = repository.findByFromAndTo(from, to)
 			.orElseThrow(() -> new RuntimeException("Error: not found!"));
 	exchangeValue.setPort(
