@@ -1,9 +1,14 @@
 # spring-boot-microservice-forex-service
  Forex Service : SpringBoot + MicroService
  
+ Currency Conversion Microservice: https://github.com/nikhilz/spring-boot-microservice-currency-conversion
+ 
  Overview:
  
  Forex Service (FS) is the Service Provider. It provides currency exchange values for various currency. Let’s assume that it talks to a Forex Exchange and provides the current conversion value between currencies.
+ 
+ 
+<img src= "https://github.com/nikhilz/spring-boot-microservice-currency-conversion/blob/master/src/main/resources/static/Spring-Boot-Microservice-1-CCS-FS.png" >
  
  After running the Application, insert the following data in the `exchange_value` table:
 ````
