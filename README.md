@@ -27,3 +27,5 @@ values(10003,'AUD','INR',25,0);
   port: 8000,
 } 
 ````
+
+[Ref](https://www.springboottutorial.com/creating-microservices-with-spring-boot-part-2-forex-microservice)
