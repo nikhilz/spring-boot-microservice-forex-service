@@ -3,7 +3,7 @@
  
  Currency Conversion Microservice: https://github.com/nikhilz/spring-boot-microservice-currency-conversion
  
- Eureka naming server : https://github.com/nikhilz/spring-boot-microservice-eureka-naming-server/blob/master/README.md
+ Eureka naming server : https://github.com/nikhilz/spring-boot-microservice-eureka-naming-server
  
  Overview:
  
