@@ -3,6 +3,8 @@
  
  Currency Conversion Microservice: https://github.com/nikhilz/spring-boot-microservice-currency-conversion
  
+ Eureka naming server : https://github.com/nikhilz/spring-boot-microservice-eureka-naming-server/blob/master/README.md
+ 
  Overview:
  
  Forex Service (FS) is the Service Provider. It provides currency exchange values for various currency. Let’s assume that it talks to a Forex Exchange and provides the current conversion value between currencies.
